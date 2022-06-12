@@ -1,4 +1,6 @@
-👋 Hi, I’m Milad Hasani 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=👋+Hi+I’m+Milad+Hasani)](https://git.io/typing-svg)
 - 💞️ I’m looking to collaborate on frontend projects
 - 🔭 I’m currently working on **Next.js**
 

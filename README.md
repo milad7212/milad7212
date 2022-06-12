@@ -13,6 +13,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=milad7212)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 
 ## Skills and Experience
 * ⚛ Next js
